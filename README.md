@@ -24,3 +24,6 @@
 
 5. 윤리교육용 [ISTE_윤리.pdf](https://github.com/SHKim92/AItextbook/files/13198090/ISTE_.pdf)
 
+*교재 원본 사이트 https://iste.org/ai
+
+
